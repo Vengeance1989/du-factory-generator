@@ -19,14 +19,6 @@ Container L, Nitron Fuel, and Polycarbonate Plastic:
 application](https://lgfrbcsgo.github.io/du-factory-generator/latest/) and
 click "Help Information" for information about using this tool.
 
-Previous versions of the tool [can be found here](https://lgfrbcsgo.github.io/du-factory-generator/).
-
-## Bugs & Feature Requests
-
-Please submit an
-[issue](https://github.com/lgfrbcsgo/du-factory-generator/issues) to
-report bugs or request new features.
-
 ## Contributing
 
 DU Factory Generator is an open source project, and we welcome user
