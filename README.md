@@ -25,24 +25,6 @@ Previous versions of the tool [can be found here](https://lgfrbcsgo.github.io/du
 
 TBD
 
-## Installation
-
-### Prerequisites
-
-[NodeJS](https://nodejs.org/en/)
-
-### Install Dependencies and Build
-```bash
-$ npm install
-$ npm run build
-```
-
-### Launch Development Server
-```bash
-$ npm start
-```
-Navigate your browser to http://localhost:8080/
-
 ## Bugs & Feature Requests
 
 Please submit an
@@ -55,10 +37,6 @@ DU Factory Generator is an open source project, and we welcome user
 contributions to improve and expand its functionality! Feel free to
 submit a pull request for anything from small fixes to big enhancements.
 
-This project uses [Prettier](https://prettier.io/) for code formatting
-and [TSLint](https://palantir.github.io/tslint/) for enforcing code
-styles.
-
 ## Contact
 
 Join our [Discord server](https://discord.gg/gXSWKqVnHx) and look for
@@ -66,9 +44,7 @@ Join our [Discord server](https://discord.gg/gXSWKqVnHx) and look for
 
 ## Contributors
 
-* [lgfrbcsgo](https://github.com/lgfrbcsgo)
-* [tvwenger](https://github.com/tvwenger)
-* [ShadowLordAlpha](https://github.com/ShadowLordAlpha)
+The Prospectors
 
 ## License
 
