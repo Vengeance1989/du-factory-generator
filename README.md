@@ -21,10 +21,6 @@ click "Help Information" for information about using this tool.
 
 Previous versions of the tool [can be found here](https://lgfrbcsgo.github.io/du-factory-generator/).
 
-## Frequently Asked Questions
-
-TBD
-
 ## Bugs & Feature Requests
 
 Please submit an
@@ -36,11 +32,6 @@ report bugs or request new features.
 DU Factory Generator is an open source project, and we welcome user
 contributions to improve and expand its functionality! Feel free to
 submit a pull request for anything from small fixes to big enhancements.
-
-## Contact
-
-Join our [Discord server](https://discord.gg/gXSWKqVnHx) and look for
-`lgfrbcsgo` and `Nikolaus`.
 
 ## Contributors
 
